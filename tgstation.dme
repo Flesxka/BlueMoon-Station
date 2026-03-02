@@ -4461,6 +4461,7 @@
 #include "modular_bluemoon\code\modules\aesthetics\sign\_signs.dm"
 #include "modular_bluemoon\code\modules\antagonists\bloodsucker.dm"
 #include "modular_bluemoon\code\modules\antagonists\bloodsucker_crypt.dm"
+#include "modular_bluemoon\code\modules\antagonists\Gabriel\gabriel.dm"
 #include "modular_bluemoon\code\modules\antagonists\bloodsucker\bloodsucker_flaws.dm"
 #include "modular_bluemoon\code\modules\antagonists\bloodsucker\bloodsucker_objectives.dm"
 #include "modular_bluemoon\code\modules\antagonists\bloodsucker\datum_bloodsucker.dm"
